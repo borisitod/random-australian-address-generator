@@ -1,0 +1,20 @@
+{
+  "name": "random-australian-address-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/borisitod/random-australian-address-generator"
+  },
+  "keywords": ["random", "address", "generator"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "random-formal-email-generator": "^1.0.0"
+  }
+}
